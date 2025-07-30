@@ -68,6 +68,35 @@
 
 ---
 
-## 📊 Most Used Languages
+## 📊 Most Used Languages (Real Stack)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varshithreddy&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+<table>
+  <tr>
+    <td><strong>TypeScript</strong></td>
+    <td>38%</td>
+  </tr>
+  <tr>
+    <td><strong>JavaScript</strong></td>
+    <td>28%</td>
+  </tr>
+  <tr>
+    <td><strong>Python</strong></td>
+    <td>14%</td>
+  </tr>
+  <tr>
+    <td><strong>SQL</strong></td>
+    <td>8%</td>
+  </tr>
+  <tr>
+    <td><strong>C++</strong></td>
+    <td>5%</td>
+  </tr>
+  <tr>
+    <td><strong>Java</strong></td>
+    <td>4%</td>
+  </tr>
+  <tr>
+    <td><strong>Others</strong></td>
+    <td>3%</td>
+  </tr>
+</table>
